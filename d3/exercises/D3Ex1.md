@@ -5,22 +5,9 @@
 
 ## Clone the Remote Repository
 
-This will copy some ``d3`` program files to your ``htdocs`` folder.  Pick one of the following two ways of downloading the repository.
+This will copy some ``d3`` program files to your ``htdocs`` folder.  
 
-### Clone by downloading ZIP file
-Go to [this link](https://github.com/noucampdotorgSSAD2021/d3) and download the repository ZIP file.  Ensure you rename the folder downloaded as ``d3`` and copy this folder into your XAMPP ``htdocs`` folder.
-
-### Clone by using git
-
-Type these commands into your *Git Bash* client:
-
-	```
-	$ cd /<DRIVE>/xampp/htdocs   
-	$ git clone https://github.com/noucampdotorgSSAD2021/d3.git d3
-	$ cd d3
-	$ dir or ls
-
-	```
+Go to [this link](https://github.com/barcaxi/ssad2022) and download the repository ZIP file.  Copy the folder ``d3`` into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``d3`` with some files in it.
 
