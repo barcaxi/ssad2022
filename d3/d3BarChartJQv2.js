@@ -2,8 +2,8 @@ $(document).ready(function() {
 
     // use d3 to draw bar chart
     var dataset = [100, 200, 300];
-    var barHeight = 30;
-    var spacing=5;
+    var barHeight = 50;
+    var spacing=10;
     
     var svg = d3.select("body").append("svg")
     .attr("width",function(){return Math.max(...dataset)})
