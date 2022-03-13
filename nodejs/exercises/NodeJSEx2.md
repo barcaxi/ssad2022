@@ -2,9 +2,6 @@
 
 > Complete ALL the exercises in this section.
 
-
-Check your ``htdocs/nodejs`` folder.  You should have some new files in it.
-
 1.	Within the ``htdocs/nodejs`` folder view the subfolder called ``httpserver``.
 
 1.	In ``httpserver`` run the Node.js file ``server1.js``
@@ -17,6 +14,4 @@ Check your ``htdocs/nodejs`` folder.  You should have some new files in it.
 
 1.	Run the Node.js file ``server3.js``.
 
-	Change something in the HTML file ``demo.html`` yourself!
-	
-	Test it using the URL ``http://localhost:3000``
+	Change something in the HTML file ``demo.html`` yourself and test it using the URL ``http://localhost:3000``
